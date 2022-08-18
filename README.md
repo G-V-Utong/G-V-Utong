@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @G-V-Utong
-- 👀 I’m interested in photography, UX design and coding
-- 🌱 I’m currently learning UX design and front end dev
-- 💞️ I’m looking to collaborate on UX design and research
+- 👋 Hi, I’m @G-V-Utong, a full-stack engineer
+- 👀 I’m interested in photography, video games, coding and UX design
 - 📫 How to reach me: godswillutong@gmail.com
 
 <!---
